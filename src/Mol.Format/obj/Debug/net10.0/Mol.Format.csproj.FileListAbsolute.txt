@@ -1,0 +1,11 @@
+/home/dankrusi/mol-net/src/Mol.Format/bin/Debug/net10.0/Mol.Format.deps.json
+/home/dankrusi/mol-net/src/Mol.Format/bin/Debug/net10.0/Mol.Format.dll
+/home/dankrusi/mol-net/src/Mol.Format/bin/Debug/net10.0/Mol.Format.pdb
+/home/dankrusi/mol-net/src/Mol.Format/obj/Debug/net10.0/Mol.Format.GeneratedMSBuildEditorConfig.editorconfig
+/home/dankrusi/mol-net/src/Mol.Format/obj/Debug/net10.0/Mol.Format.AssemblyInfoInputs.cache
+/home/dankrusi/mol-net/src/Mol.Format/obj/Debug/net10.0/Mol.Format.AssemblyInfo.cs
+/home/dankrusi/mol-net/src/Mol.Format/obj/Debug/net10.0/Mol.Format.csproj.CoreCompileInputs.cache
+/home/dankrusi/mol-net/src/Mol.Format/obj/Debug/net10.0/Mol.Format.dll
+/home/dankrusi/mol-net/src/Mol.Format/obj/Debug/net10.0/refint/Mol.Format.dll
+/home/dankrusi/mol-net/src/Mol.Format/obj/Debug/net10.0/Mol.Format.pdb
+/home/dankrusi/mol-net/src/Mol.Format/obj/Debug/net10.0/ref/Mol.Format.dll

@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>net8.0;net10.0</TargetFrameworks>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Mol.Format</PackageId>
+    <Version>0.1.0</Version>
+    <Authors>mol-format</Authors>
+    <Description>.NET serializer and deserializer for Markdown Object Language (MOL).</Description>
+    <PackageTags>mol markdown serialization parser config</PackageTags>
+    <RepositoryUrl>https://github.com/mol-format/mol-net</RepositoryUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="README.md" Pack="true" PackagePath="\" />
+  </ItemGroup>
+</Project>
